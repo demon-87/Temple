@@ -1,0 +1,137 @@
+Webpage - Landscape
+W - 1920 X-0
+H - 1080 Y-0
+
+Webpage BG
+W - 1297.59 X- (-15.16)
+H - 1946.16 Y- (-212.28)
+Rotation - (-90°)
+Opacity - 45%
+Color Code#
+Fill - #FFFFFF, 100%
+
+Webpage BG Logo
+W - 1941 X-(-10)
+H - 1941 Y-(-463)
+Opacity - 20%
+Color Code#
+Fill - #FFFFFF, 100%
+Shadow - #373636, 50%
+X-0 Y-3 B-6
+
+BANNER
+W - 1920 X-0
+H - 128  Y-20
+COLOR CODE# FOR BANNER
+Fill - #FF7E00, 100%
+Border - #FFFFFF, 100%
+Opacity - 100%
+
+LOGO
+W - 150 X-10
+H - 150 Y-10
+COLOR CODE# FOR LOGO
+Fill - #FFFFFF, 100%
+Shadow - #FF8000, 50%
+X-4 Y-3 B-6
+Opacity - 100%
+
+NAVIGATION
+W - 438 X-1458
+H - 20  Y-84
+Font
+Font Name- Vijaya, Regular
+Font Size- 20
+Color Code#
+Fill - #FFFFFF, 100%
+Shadow - #373636, 16%
+X-0 Y-3 B-6
+Opacity - 100%
+
+BANNER FONT
+W - 925 X-498
+H - 87  Y-25
+Font Name- Papyrus, Regular
+Font Size- 55
+Opacity - 100%
+Color Code#
+Fill - #FF0000, 100%
+Border - #FF0000, 100%, size-1
+Shadow - #2E2E2E, 53%
+X-0 Y-5 B-10
+
+BANNER FONT#2
+W - 450 X-735
+H - 40 Y-104
+Font Name- Papyrus, Regular
+Font Size- 25
+Opacity - 100%
+Color Code#
+Fill - #FF0000, 100%
+Border - #FF0000, 100%, size-1
+Shadow - #2E2E2E, 30%
+X-0 Y-5 B-10
+
+MAIN PAGE CONTENT BOX
+W - 1569 X - 176
+H - 277  Y - 231
+Opacity - 100%
+Color Code#
+Fill - #FF7E00, 30%
+
+MAIN PAGE CONTENT BOX Font#1
+W - 405 X - 758
+H - 120 Y - 238
+Font Name- Vivaldi
+Font Size- 50
+Opacity - 100%
+Color Code# 
+Fill - #232323 100%
+
+MAIN PAGE CONTENT BOX Font#2
+W - 490 X - 715
+H - 75  Y - 358
+Font Name- Vijaya
+Font Size- 25
+Opacity - 100%
+Color Code# 
+Fill - #FFFFFF, 100%
+Shadow - #373636, 16%
+X-0 Y-3 B-6
+
+MAIN PAGE CONTENT BOX Font#3
+W - 173 X - 874
+H - 50  Y - 449
+Font Name- Vijaya
+Font Size- 25
+Opacity - 100%
+Color Code# 
+Fill - #FFFFFF, 100%
+
+MAIN PAGE CONTENT BOX Font#4
+W - 343 X - 789
+H - 51  Y - 607
+Font Name- Vijaya, Bold
+Font Size- 50
+Opacity - 100%
+Color Code# 
+Fill - #FF7E00, 100%
+
+
+MAIN PAGE CONTENT BOX Font#5
+W - 618 X - 651
+H - 25  Y - 686
+Font Name- Vijaya, Bold
+Font Size- 50
+Opacity - 100%
+Color Code# 
+Fill - #000000, 100%
+
+MAIN PAGE CONTENT BOX Font#6
+W - 283 X - 819
+H - 30  Y - 1038
+Font Name- Vijaya, Bold
+Font Size- 12
+Opacity - 30%
+Color Code# 
+Fill - #000000, 100%
